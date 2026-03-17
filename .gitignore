@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+output/*.csv
+audio/data/*
+pdf/data/*
+images/data/*
+video/data/*
+text/data/*
+!**/data/.gitkeep
