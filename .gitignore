@@ -1,9 +1,5 @@
 .env
 __pycache__/
 *.pyc
-audio/data/*
-pdf/data/*
-images/data/*
-video/data/*
-text/data/*
+
 !**/data/.gitkeep
