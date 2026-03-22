@@ -369,9 +369,9 @@ This project is for academic purposes as part of the EDS 6344 — AI for Enginee
 
 | Name | Role | Contribution |
 |------|------|-------------|
-| Student 1 | Audio Analyst | Audio transcription and event extraction |
-| Student 2 | PDF Analyst | PDF parsing and document classification |
-| Student 3 | Image Analyst | Scene classification and object detection |
-| Student 4 | Video Analyst | Frame extraction and event detection |
-| Student 5 | Text Analyst | NER, sentiment analysis, and topic classification |
+| Smit Patel | Audio Analyst | Audio transcription and event extraction |
+| Nisarg Shah | PDF Analyst | PDF parsing and document classification |
+| Somil Doshi | Image Analyst | Scene classification and object detection |
+| Parva Shah | Video Analyst | Frame extraction and event detection |
+| Md Moshiur Rahman | Text Analyst | NER, sentiment analysis, and topic classification |
 | All | Integration | Data merging, severity scoring, and dashboard |
