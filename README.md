@@ -1,3 +1,5 @@
+Git Repo Link : https://github.com/pshah2983/Multimodal-Crime-Report-Analyzer
+
 # Multimodal Crime & Incident Report Analyzer
 
 An AI-powered modular processing pipeline that analyzes multimodal emergency data streams (audio, document, image, video, and text). It uses various Google Gemini models and computer vision tools to extract critical incident information and merge it into a single, unified severity report.
