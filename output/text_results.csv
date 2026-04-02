@@ -1,0 +1,16 @@
+Text_ID,Crime_Type,Location_Entity,Sentiment,Topic,Severity_Label
+TXT_001,Homicide / Shooting,"I-59/20, Jeff/Tusc Co line",Very Negative,Violence / Assault,Critical
+TXT_002,Shooting,basketball courts behind Word Tabernacle Church,Negative,Violence / Assault,Critical
+TXT_003,Police Misconduct,Chicago,Negative,Other,High
+TXT_004,Assault,Unknown,Very Negative,Violence / Assault,High
+TXT_005,"Murder, Domestic Violence, Forced Marriage, FGM",Unknown,Very Negative,Violence / Assault,Critical
+TXT_006,Honour Crime,Unknown,Very Negative,Violence / Assault,Critical
+TXT_007,Bank Robbery,Town of Tonawanda,Negative,Theft / Robbery,High
+TXT_008,Abuse,Pakistan,Very Negative,Violence / Assault,Critical
+TXT_009,Other,Unknown,Negative,Violence / Assault,High
+TXT_010,Drug-related Crime,Baltimore,Negative,Drug-related,High
+TXT_011,Disturbance,Redbridge,Negative,Public Disturbance,High
+TXT_012,Other,Unknown,Negative,Other,Low
+TXT_013,Crime Prevention,"Devon, Cornwall",Positive,Crime Prevention,Low
+TXT_014,Legal Ruling,Unknown,Positive,Violence / Assault,High
+TXT_015,Rescue,River,Positive,Other,Critical
