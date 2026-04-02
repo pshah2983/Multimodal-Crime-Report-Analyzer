@@ -1,0 +1,17 @@
+Clip_ID,Timestamp,Frame_ID,Event_Detected,Persons_Count,Confidence
+CLIP_001,00:00:01,FRM_001,Person walks across the lobby floor with wide arm movements,1 person,0.95
+CLIP_001,00:00:19,FRM_002,Person walks across the lobby floor from left to right,1 person,0.95
+CLIP_002,00:00:01,FRM_001,"Person enters frame, walks across the floor, stops to stretch or pose with arms outstretched, then walks off frame.",1 person,0.95
+CLIP_002,00:00:13,FRM_002,"Person walks into the frame, approaches a stand/machine on the right, interacts with it for several seconds, and then walks off frame.",1 person,0.95
+CLIP_003,00:00:00,FRM_001,A person in a blue shirt walks across the open floor while holding a white object.,1 person,0.95
+CLIP_003,00:00:07,FRM_002,A person in a dark top and jeans enters the frame and walks towards another stationary individual in a red shirt.,2 persons,0.9
+CLIP_003,00:00:13,FRM_003,"A physical altercation occurs between two individuals, where one person pushes the other to the ground.",2 persons,0.98
+CLIP_003,00:00:15,FRM_004,"The individual who fell during the altercation gets up, and both involved parties walk away from the area.",2 persons,0.95
+CLIP_004,00:00:00,FRM_001,"A person, initially lying on the floor, stands up while holding papers and walks off-frame.",4 persons,0.95
+CLIP_004,00:00:07,FRM_002,"A new person enters the frame, walks towards the lounge area, and lies down on the floor.",4 persons,0.95
+CLIP_004,00:00:14,FRM_003,The person who had just laid down (in a light shirt) stands up and walks out of the frame.,4 persons,0.95
+CLIP_004,00:00:15,FRM_004,A person previously sitting near the lounge area stands up and then lies down on the floor.,3 persons,0.95
+CLIP_005,00:00:09,FRM_001,Two individuals enter the frame and converge towards each other,2 persons,0.98
+CLIP_005,00:00:12,FRM_002,Two individuals meet in the open area and briefly interact,2 persons,0.95
+CLIP_005,00:00:13,FRM_003,Two individuals walk together towards and into a lounge area,2 persons,0.98
+CLIP_005,00:00:26,FRM_004,"Additional individuals become visible in the lounge area, joining the others",multiple persons,0.85
